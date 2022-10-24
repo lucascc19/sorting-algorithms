@@ -10,7 +10,6 @@ A diferença dele para o Insertion Sort é que o tempo necessário para realizar
 ## Insertion-sort
 O Insertion Sort se trata de um algoritmo de ordenação simples que funciona de maneira semelhante à maneira como você classifica as cartas de baralho em suas mãos. A matriz é virtualmente dividida em um parte classificada e uma parte não classificada. Os valores da peça não classificada são selecionados e colocados na posição correta na peça classificada. Vale ressaltar que a ordenação por inserção é eficiente para pequenos valores de dados, visto que quando se trata de valores maiores ou quando são classificados em ordem inversa, o algoritmo leva mais tempo para classificá-los. <br>
 **Complexidade de tempo:** O(N²)
----
 Após a implementação, foi realizado um teste com vetores de 1.000, 10.000, 100.000 e 1.000.000. Eis o resultado:
 Tamanho do vetor   | Heap-sort | Insertion-sort
 ------------------ | --------- | --------------
