@@ -1,2 +1,3 @@
 # sorting-algorithms
-Trabalho de Estrutura de Dados Avançadas
+💻 Trabalho de Estrutura de Dados Avançadas
+---
